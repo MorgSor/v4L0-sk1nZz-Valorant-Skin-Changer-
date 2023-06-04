@@ -1,4 +1,4 @@
-# v4L0 sk1nZz Valorant Skin Changer-
+# v4L0 sk1nZz Valorant Skin Changer
 Skin changer for valorant (You cant be banned. Because there is no change in the part of the game files sent to the server. Only changing your skins locally. Visual effects...
 
 # Windows Firewall / Defender error !
